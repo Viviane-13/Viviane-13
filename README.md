@@ -49,13 +49,12 @@
 </code>
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></a></code>
   
+
+ <div align="center">
   
-
-
-<p align="center">
-  <img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-13&hide=html&layout=compact&show_icons=true" />
-  <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=Viviane-13&theme=default&show_icons=true" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viviane-13&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-13&layout=compact&langs_count=16"/>
+<div>
 
 
 
