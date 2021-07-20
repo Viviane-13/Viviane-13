@@ -26,7 +26,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/viviane-oliveira-303683162/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viviane-oliveira-303683162/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viviane-olvr/">
   </a>
 
   <a href="https://www.instagram.com/viviane.olvr/?hl=pt-br">
