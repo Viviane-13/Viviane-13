@@ -18,7 +18,11 @@
 </p>
 
 ##
-
+<summary>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
+  <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
+</summary>
+<br />
  <div >
   <a href="https://github.com/Viviane-13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viviane-13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
