@@ -17,10 +17,28 @@
   </em>
 </p>
 
+##
+
+ <div>
+  <a href="https://github.com/Viviane-13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viviane-13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-13&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
+
+##
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Viviane-13">
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Viviane-13">
   </a>
@@ -30,30 +48,21 @@
   </a>
 
   <a href="https://www.instagram.com/viviane.olvr/?hl=pt-br">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/_vivianeoliveira__/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/viviane.olvr/">
   </a>
 
   <a href="mailto:dev.vivian1@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-f4f4f4?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:dev.vivian1@gmail.com/">
   </a>
-</p>
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><a href = "https://flutter.dev/" target="_blank"></a><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>  
-<code> <a href="https://developer.android.com" target="_blank"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></a>
-</code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></a></code>
+
+
   
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-13&layout=compact&langs_count=16"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viviane-13&show_icons=true&include_all_commits=true&count_private=true"/>
-<div>
+
 
 
 
