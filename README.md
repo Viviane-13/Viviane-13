@@ -1,23 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Viviane</h1>
 
-
-<p>
-  <em style="font-style: italic">🎓 Computer Technician in <a href="https://www.ifsertao-pe.edu.br/"><b>IF Sertão Pernambucano - Campus Salgueiro</b></a>.
-  <br>
-  👩🏻‍💻 Frontend Developer </a>.
-  <br>
-  📌 Current working with React.
-  <br>
-  💻 Website - Working on it...
-  <br>
-  🇧🇷 Living in Brazil.
-  <br>
-  
-  </em>
-</p>
-
-##
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
   <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
