@@ -8,10 +8,10 @@
 <br />
  <div align="center">
   <a href="https://github.com/Viviane-13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viviane-13&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-13&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" align="left" alt="Viviane Oliveira Github Stats" src="https://github-readme-stats.vercel.app/api?username=Viviane-13&show_icons=true&hide_border=true&theme=dracula" />
+    <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-13&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+   
  
   
 <div style="display: inline_block" align="center" ><br>
