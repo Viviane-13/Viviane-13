@@ -47,7 +47,7 @@
   </a>
   
  
- ![Snake animation](https://github.com/Viviane-13/Viviane-13/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
