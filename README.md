@@ -38,10 +38,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viviane-olvr/">
   </a>
 
-  <a href="https://www.instagram.com/viviane.olvr/?hl=pt-br">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/viviane.olvr/">
-  </a>
-
   <a href="mailto:dev.vivian1@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-f4f4f4?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:dev.vivian1@gmail.com/">
   </a>
